@@ -19,12 +19,12 @@ form {
     margin: auto;
     max-width: 600px;
     border-radius: 8px;
-    border: 2px solid rgb(1, 1, 255);
+    border: 1px solid rgb(76, 76, 240);
     
 }
 
 fieldset {
-    border: 2px solid rgb(1, 1, 255);
+    border: 2px solid rgb(76, 76, 240);
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
@@ -91,7 +91,7 @@ button:hover {
     padding: 50px;
     background:rgb(204, 198, 198);
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-    border: 2px solid rgb(1, 1, 255);
+    border: 1px solid rgb(76, 76, 240);
     border-radius: 8px;
 
 }
